@@ -12,7 +12,7 @@ The Capital market line is tangent to the portfolio with the highest Sharpe and 
 R_e=(\text{Sharpe Ratio}\times \sigma) + R_f
 ```
 
-On this line the most capital efficient portfolio can be levered by shorting the risk free rate (borrowing) and using those funds to purchase more of the efficient portfolio to increase returns (and risk). On this line it is also possible to lower your risk (and returns) by selling the assets to invest a portion into the risk free rate.
+On this line the most capital efficient portfolio can be levered by shorting the risk free rate (borrowing) and using those funds to purchase more of the efficient portfolio to increase returns (and risk). On this line it is also possible to lower your risk (and returns) by shorting the portfolio to invest a portion into the risk free rate.
 
 ![](mpt.png)
 
